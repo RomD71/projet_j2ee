@@ -28,7 +28,6 @@ form input {
     border: 1px #999 solid;
 }
 
-
 form input.sansLabel {
     margin-left: 200px;
 }
@@ -38,7 +37,6 @@ form input.sansLabel {
 .requis {
     color: #c00;
 }
-
 
 .erreur {
     color: #900;
