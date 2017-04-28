@@ -8,6 +8,7 @@
       <root url="jar://$PROJECT_DIR$/lib/taglibs-standard-jstlel-1.2.5.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/xalan-2.7.1.jar!/" />
       <root url="file://$PROJECT_DIR$" />
+      <root url="jar://$PROJECT_DIR$/../../../tomcat/lib/mysql-connector-java-5.1.41-bin.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

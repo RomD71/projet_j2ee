@@ -82,6 +82,7 @@ public class InscriptionController {
     boolean validationNom(String nom) {
         if (nom == null || nom.isEmpty()) {
             erreurs.put(NOM, "Le nom utilisateur doit être renseigné");
+
         }
         return true;
     }
